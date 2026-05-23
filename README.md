@@ -1,5 +1,7 @@
 # Playwright Todo Tests
 
+[![Playwright Tests](https://github.com/alibaevweb/playwright-todo-tests/actions/workflows/playwright.yml/badge.svg)](https://github.com/alibaevweb/playwright-todo-tests/actions/workflows/playwright.yml)
+
 Автотесты для веб-приложения TodoMVC. Учебный проект для освоения автоматизации тестирования.
 
 ## Технологии
